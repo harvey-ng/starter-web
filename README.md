@@ -15,6 +15,7 @@ As stated done, the main is to provide simple example for git training
 This is a simple web project
 
 ## How To Contribute
+Please fork this repository and then issue Pull request
 
 ### Copyright
 Git training
