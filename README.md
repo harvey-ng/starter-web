@@ -15,3 +15,6 @@ As stated done, the main is to provide simple example for git training
 This is a simple web project
 
 ## How To Contribute
+
+### Copyright
+Git training
